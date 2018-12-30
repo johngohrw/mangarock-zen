@@ -1,9 +1,9 @@
 {
-  "name": "Block Ads on MangaRock",
-  "version": "0.6.5",
+  "name": "MangaRock Zen Mode",
+  "version": "0.7.0",
   "manifest_version": 2,
   "description": "Eliminate distractions while reading your favorite manga on MangaRock.",
-  "homepage_url": "http://github.com/johngohrw",
+  "homepage_url": "http://github.com/johngohrw/mangarock-zen",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
