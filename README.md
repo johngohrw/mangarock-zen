@@ -1,5 +1,7 @@
 # mangarock-zen
 
+![alt text](https://imgur.com/Oi9XQTi.jpg "Logo")
+
 [Chrome Webstore Page](https://chrome.google.com/webstore/detail/mangarock-zen-mode/fibnhakphanghjojcnaeehgoemhobaed)
 
 Chrome extension for hiding intrusive elements on MangaRock's desktop manga reader.
