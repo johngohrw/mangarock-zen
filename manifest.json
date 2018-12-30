@@ -1,0 +1,32 @@
+{
+  "name": "Block Ads on MangaRock",
+  "version": "0.6.5",
+  "manifest_version": 2,
+  "description": "Eliminate distractions while reading your favorite manga on MangaRock.",
+  "homepage_url": "http://github.com/johngohrw",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "default_locale": "en",
+  "background": [
+    {
+      "scripts": ["js/jquery/jquery.min.js"] 
+    }
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://mangarock.com/manga/*"
+      ],
+      "css": [
+        "src/inject/inject.css"
+      ],
+      "js": [
+        "js/jquery/jquery.min.js",
+        "src/inject/inject.js"
+      ]
+    }
+  ]
+}
