@@ -4,6 +4,11 @@ Notice: This chrome extension is no longer being supported. I thank everyone for
 
 ![alt text](https://imgur.com/Oi9XQTi.jpg "Logo")
 
+![alt text](https://imgur.com/q7VATSl.jpg "Banner 1")
+![alt text](https://imgur.com/8gcctEB.jpg "Banner 2")
+![alt text](https://imgur.com/d2SpcRd.jpg "Banner 3")
+![alt text](https://imgur.com/HcJYB6s.jpg "Banner 4")
+
 [Chrome Webstore Page](https://chrome.google.com/webstore/detail/mangarock-zen-mode/fibnhakphanghjojcnaeehgoemhobaed)
 
 Chrome extension for hiding intrusive elements on MangaRock's desktop manga reader.
@@ -12,10 +17,8 @@ Does not demonetize the site. Still loads the ads, only hiding them from view.
 
 ## Chrome Webstore Description
 
-Goodbye intrusive pages and elements! This extension provides a distraction-free reading experience on MangaRock's web reader by removing intrusive pages in the middle of the chapter. Screen real-estate is also maximized by removing video pop-ups and ad banners located at the bottom of the reader, making full use of your screen height!
+This extension hides ad banner elements in MangaRock's web reader, including ads at the bottom of the page(that takes up precious screen space), interruptive full-page advertisements, and mini video ads appearing at the corner of the screen. 
 
-Normal ad-blockers merely remove the ads, but they do not remove the intrusive pages and elements themselves. 
+Normal adblockers only stop the ads from showing, but the intrusive banners and pages still remain. This extension removes the banners and pages completely as well.
 
-Despite that, this extension does not actually demonetize the site. The "removed" ad pages and banners are actually just relocated and hidden from view. They are still allowed to load in the background and does not kill the site's revenue at all.
-
-To support MangaRock and still enjoy a distraction-free manga reading experience, I recommend that you add MangaRock to the whitelist of your adblock, and enable this extension. 
+This does not demonetize the site. The ads will still load in the background (just hidden from view).
