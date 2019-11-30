@@ -1,5 +1,7 @@
 # mangarock-zen
 
+Notice: This chrome extension is no longer being supported. I thank everyone for the warm reception this tiny extension received!
+
 ![alt text](https://imgur.com/Oi9XQTi.jpg "Logo")
 
 [Chrome Webstore Page](https://chrome.google.com/webstore/detail/mangarock-zen-mode/fibnhakphanghjojcnaeehgoemhobaed)
